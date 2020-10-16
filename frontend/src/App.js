@@ -18,6 +18,7 @@ function App() {
         >
           Learn...
         </a>
+        <p>Unless you're me.</p>
       </header>
     </div>
   );
